@@ -1,4 +1,4 @@
-package br.serratec.java2backend.exception;
+package br.serratec.java2backend.projeto06.exception;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ExceptionHandler;

@@ -1,0 +1,77 @@
+{"properties": [
+  {
+    "name": "url.serratec",
+    "type": "java.lang.String",
+    "description": "A description for 'url.serratec'"
+  },
+  {
+    "name": "aplicacao.valor",
+    "type": "java.lang.String",
+    "description": "A description for 'aplicacao.valor'"
+  },
+  {
+    "name": "aplicacao.array2[0]",
+    "type": "java.lang.String",
+    "description": "A description for 'aplicacao.array2[0]'"
+  },
+  {
+    "name": "aplicacao.todos[0].id",
+    "type": "java.lang.String",
+    "description": "A description for 'aplicacao.todos[0].id'"
+  },
+  {
+    "name": "aplicacao.lista",
+    "type": "java.lang.String",
+    "description": "A description for 'aplicacao.lista'"
+  },
+  {
+    "name": "aplicacao.todos[0].descricao",
+    "type": "java.lang.String",
+    "description": "A description for 'aplicacao.todos[0].descricao'"
+  },
+  {
+    "name": "aplicacao.todos[0].titulo",
+    "type": "java.lang.String",
+    "description": "A description for 'aplicacao.todos[0].titulo'"
+  },
+  {
+    "name": "aplicacao.array2.1",
+    "type": "java.lang.String",
+    "description": "A description for 'aplicacao.array2.1'"
+  },
+  {
+    "name": "aplicacao.array1",
+    "type": "java.lang.String",
+    "description": "A description for 'aplicacao.array1'"
+  },
+  {
+    "name": "aplicacao.valor2",
+    "type": "java.lang.String",
+    "description": "A description for 'aplicacao.valor2'"
+  },
+  {
+    "name": "aplicacao.array2[0]",
+    "type": "java.lang.String",
+    "description": "A description for 'aplicacao.array2[0]'"
+  },
+  {
+    "name": "aplicacao.array2[0]",
+    "type": "java.lang.String",
+    "description": "A description for 'aplicacao.array2[0]'"
+  },
+  {
+    "name": "aplicacao.todos[0].descricao",
+    "type": "java.lang.String",
+    "description": "A description for 'aplicacao.todos[0].descricao'"
+  },
+  {
+    "name": "aplicacao.todos[0].titulo",
+    "type": "java.lang.String",
+    "description": "A description for 'aplicacao.todos[0].titulo'"
+  },
+  {
+    "name": "aplicacao.todos[0].id",
+    "type": "java.lang.String",
+    "description": "A description for 'aplicacao.todos[0].id'"
+  }
+]}
