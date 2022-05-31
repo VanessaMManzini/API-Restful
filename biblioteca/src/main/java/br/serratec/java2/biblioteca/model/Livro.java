@@ -52,7 +52,7 @@ public class Livro implements Serializable{
 	private String autorLivro;
 	
 	@Column(name = "livro_dt_dataPublicacao")
-	@DateTimeFormat(pattern = "yyy-MM-dd")
+	@DateTimeFormat(pattern = "yyyy-MM-dd")
 	@Past(message = "A data deve estar no passado.")
 	private Date dataPublicacao;
 	

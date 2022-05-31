@@ -27,7 +27,7 @@ public class LivroService {
 		
 	}
 		
-	public LivroDto transformarLivroModelEmLivroDto(LivroDto livroDto, Livro livro) {
+		LivroDto transformarLivroModelEmLivroDto(LivroDto livroDto, Livro livro) {
 		livroDto.setIdLivro(livro.getIdLivro());
 		livroDto.setTitulo(livro.getTitulo());
 		livroDto.setTipo(livro.getTipo());
@@ -75,7 +75,7 @@ public class LivroService {
 			if(livro.isPresent()) {
 				livroNovo = livro.get();
 				if(livroDto.getTitulo() !=null) {
-					livroNovo.setTitulo(livroNovo.getTitulo());
+							livroNovo.setTitulo(livroNovo.getTitulo());
 				}
 				if(livroDto.getTipo()!=null) {
 					livroNovo.setTipo(livroNovo.getTipo());
